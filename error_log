@@ -1,0 +1,435 @@
+[17-Jan-2024 05:24:28 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'abhipoud_a'@'localhost' (using password: YES) in /home1/abhipoud/public_html/connection.php:6
+Stack trace:
+#0 /home1/abhipoud/public_html/connection.php(6): mysqli->__construct('localhost', 'abhipoud_a', Object(SensitiveParameterValue), 'abhipoud_773567...')
+#1 /home1/abhipoud/public_html/login.php(4): include('/home1/abhipoud...')
+#2 {main}
+  thrown in /home1/abhipoud/public_html/connection.php on line 6
+[17-Jan-2024 05:24:33 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'abhipoud_a'@'localhost' (using password: YES) in /home1/abhipoud/public_html/connection.php:6
+Stack trace:
+#0 /home1/abhipoud/public_html/connection.php(6): mysqli->__construct('localhost', 'abhipoud_a', Object(SensitiveParameterValue), 'abhipoud_773567...')
+#1 /home1/abhipoud/public_html/register.php(3): require_once('/home1/abhipoud...')
+#2 {main}
+  thrown in /home1/abhipoud/public_html/connection.php on line 6
+[17-Jan-2024 05:29:27 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/abhipoud/public_html/index.php on line 8
+[17-Jan-2024 05:29:27 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/abhipoud/public_html/index.php on line 8
+[17-Jan-2024 05:29:30 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'abhipoud_a'@'localhost' (using password: YES) in /home1/abhipoud/public_html/connection.php:6
+Stack trace:
+#0 /home1/abhipoud/public_html/connection.php(6): mysqli->__construct('localhost', 'abhipoud_a', Object(SensitiveParameterValue), 'abhipoud_773567...')
+#1 /home1/abhipoud/public_html/login.php(4): include('/home1/abhipoud...')
+#2 {main}
+  thrown in /home1/abhipoud/public_html/connection.php on line 6
+[17-Jan-2024 05:31:03 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'abhipoud_a'@'localhost' (using password: YES) in /home1/abhipoud/public_html/connection.php:6
+Stack trace:
+#0 /home1/abhipoud/public_html/connection.php(6): mysqli->__construct('localhost', 'abhipoud_a', Object(SensitiveParameterValue), 'abhipoud_773567...')
+#1 /home1/abhipoud/public_html/login.php(3): include('/home1/abhipoud...')
+#2 {main}
+  thrown in /home1/abhipoud/public_html/connection.php on line 6
+[17-Jan-2024 05:31:05 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'abhipoud_a'@'localhost' (using password: YES) in /home1/abhipoud/public_html/connection.php:6
+Stack trace:
+#0 /home1/abhipoud/public_html/connection.php(6): mysqli->__construct('localhost', 'abhipoud_a', Object(SensitiveParameterValue), 'abhipoud_773567...')
+#1 /home1/abhipoud/public_html/login.php(3): include('/home1/abhipoud...')
+#2 {main}
+  thrown in /home1/abhipoud/public_html/connection.php on line 6
+[17-Jan-2024 05:31:07 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'abhipoud_a'@'localhost' (using password: YES) in /home1/abhipoud/public_html/connection.php:6
+Stack trace:
+#0 /home1/abhipoud/public_html/connection.php(6): mysqli->__construct('localhost', 'abhipoud_a', Object(SensitiveParameterValue), 'abhipoud_773567...')
+#1 /home1/abhipoud/public_html/login.php(3): include('/home1/abhipoud...')
+#2 {main}
+  thrown in /home1/abhipoud/public_html/connection.php on line 6
+[17-Jan-2024 05:31:11 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/abhipoud/public_html/index.php on line 8
+[17-Jan-2024 05:31:14 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'abhipoud_a'@'localhost' (using password: YES) in /home1/abhipoud/public_html/connection.php:6
+Stack trace:
+#0 /home1/abhipoud/public_html/connection.php(6): mysqli->__construct('localhost', 'abhipoud_a', Object(SensitiveParameterValue), 'abhipoud_773567...')
+#1 /home1/abhipoud/public_html/login.php(3): include('/home1/abhipoud...')
+#2 {main}
+  thrown in /home1/abhipoud/public_html/connection.php on line 6
+[17-Jan-2024 05:32:33 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'abhipoud_a'@'localhost' (using password: YES) in /home1/abhipoud/public_html/connection.php:6
+Stack trace:
+#0 /home1/abhipoud/public_html/connection.php(6): mysqli->__construct('localhost', 'abhipoud_a', Object(SensitiveParameterValue), 'abhipoud_773567...')
+#1 /home1/abhipoud/public_html/login.php(3): include('/home1/abhipoud...')
+#2 {main}
+  thrown in /home1/abhipoud/public_html/connection.php on line 6
+[17-Jan-2024 05:32:37 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/abhipoud/public_html/index.php on line 8
+[17-Jan-2024 05:32:39 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'abhipoud_a'@'localhost' (using password: YES) in /home1/abhipoud/public_html/connection.php:6
+Stack trace:
+#0 /home1/abhipoud/public_html/connection.php(6): mysqli->__construct('localhost', 'abhipoud_a', Object(SensitiveParameterValue), 'abhipoud_773567...')
+#1 /home1/abhipoud/public_html/login.php(3): include('/home1/abhipoud...')
+#2 {main}
+  thrown in /home1/abhipoud/public_html/connection.php on line 6
+[17-Jan-2024 05:32:45 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'abhipoud_a'@'localhost' (using password: YES) in /home1/abhipoud/public_html/connection.php:6
+Stack trace:
+#0 /home1/abhipoud/public_html/connection.php(6): mysqli->__construct('localhost', 'abhipoud_a', Object(SensitiveParameterValue), 'abhipoud_773567...')
+#1 /home1/abhipoud/public_html/login.php(3): include('/home1/abhipoud...')
+#2 {main}
+  thrown in /home1/abhipoud/public_html/connection.php on line 6
+[17-Jan-2024 05:33:21 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/abhipoud/public_html/index.php on line 8
+[17-Jan-2024 05:33:23 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'abhipoud_a'@'localhost' (using password: YES) in /home1/abhipoud/public_html/connection.php:6
+Stack trace:
+#0 /home1/abhipoud/public_html/connection.php(6): mysqli->__construct('localhost', 'abhipoud_a', Object(SensitiveParameterValue), 'abhipoud_773567...')
+#1 /home1/abhipoud/public_html/login.php(3): include('/home1/abhipoud...')
+#2 {main}
+  thrown in /home1/abhipoud/public_html/connection.php on line 6
+[17-Jan-2024 05:34:07 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/abhipoud/public_html/index.php on line 8
+[17-Jan-2024 05:37:25 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/abhipoud/public_html/index.php on line 8
+[17-Jan-2024 05:37:28 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'abhipoud_a'@'localhost' (using password: YES) in /home1/abhipoud/public_html/connection.php:7
+Stack trace:
+#0 /home1/abhipoud/public_html/connection.php(7): mysqli_connect('localhost', 'abhipoud_a', Object(SensitiveParameterValue), 'abhipoud_773567...')
+#1 /home1/abhipoud/public_html/login.php(3): include('/home1/abhipoud...')
+#2 {main}
+  thrown in /home1/abhipoud/public_html/connection.php on line 7
+[17-Jan-2024 05:42:46 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/abhipoud/public_html/index.php on line 8
+[17-Jan-2024 05:45:28 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'abhipoud_a'@'localhost' (using password: YES) in /home1/abhipoud/public_html/connection.php:7
+Stack trace:
+#0 /home1/abhipoud/public_html/connection.php(7): mysqli_connect('localhost', 'abhipoud_a', Object(SensitiveParameterValue), 'abhipoud_773567...')
+#1 {main}
+  thrown in /home1/abhipoud/public_html/connection.php on line 7
+[17-Jan-2024 05:45:31 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'abhipoud_a'@'localhost' (using password: YES) in /home1/abhipoud/public_html/connection.php:7
+Stack trace:
+#0 /home1/abhipoud/public_html/connection.php(7): mysqli_connect('localhost', 'abhipoud_a', Object(SensitiveParameterValue), 'abhipoud_773567...')
+#1 {main}
+  thrown in /home1/abhipoud/public_html/connection.php on line 7
+[17-Jan-2024 05:45:37 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/abhipoud/public_html/index.php on line 8
+[17-Jan-2024 05:51:46 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/abhipoud/public_html/index.php on line 8
+[17-Jan-2024 05:52:13 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'abhipoud_a'@'localhost' (using password: YES) in /home1/abhipoud/public_html/connection.php:7
+Stack trace:
+#0 /home1/abhipoud/public_html/connection.php(7): mysqli_connect('localhost', 'abhipoud_a', Object(SensitiveParameterValue), 'abhipoud_773567...')
+#1 /home1/abhipoud/public_html/login.php(3): include('/home1/abhipoud...')
+#2 {main}
+  thrown in /home1/abhipoud/public_html/connection.php on line 7
+[17-Jan-2024 05:58:46 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'abhipoud_a'@'localhost' (using password: YES) in /home1/abhipoud/public_html/connection.php:7
+Stack trace:
+#0 /home1/abhipoud/public_html/connection.php(7): mysqli_connect('localhost', 'abhipoud_a', Object(SensitiveParameterValue), 'abhipoud_773567...')
+#1 /home1/abhipoud/public_html/login.php(3): include('/home1/abhipoud...')
+#2 {main}
+  thrown in /home1/abhipoud/public_html/connection.php on line 7
+[17-Jan-2024 05:59:05 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/abhipoud/public_html/index.php on line 8
+[17-Jan-2024 06:13:04 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/abhipoud/public_html/index.php on line 8
+[17-Jan-2024 06:14:34 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/abhipoud/public_html/index.php on line 8
+[17-Jan-2024 06:14:50 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'abhipoud_a'@'localhost' (using password: YES) in /home1/abhipoud/public_html/connection.php:7
+Stack trace:
+#0 /home1/abhipoud/public_html/connection.php(7): mysqli_connect('localhost', 'abhipoud_a', Object(SensitiveParameterValue), 'abhipoud_773567...')
+#1 /home1/abhipoud/public_html/login.php(3): include('/home1/abhipoud...')
+#2 {main}
+  thrown in /home1/abhipoud/public_html/connection.php on line 7
+[17-Jan-2024 06:15:45 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'abhipoud_a'@'localhost' (using password: YES) in /home1/abhipoud/public_html/connection.php:7
+Stack trace:
+#0 /home1/abhipoud/public_html/connection.php(7): mysqli_connect('localhost', 'abhipoud_a', Object(SensitiveParameterValue), 'abhipoud_773567...')
+#1 {main}
+  thrown in /home1/abhipoud/public_html/connection.php on line 7
+[17-Jan-2024 06:15:50 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'abhipoud_a'@'localhost' (using password: YES) in /home1/abhipoud/public_html/connection.php:7
+Stack trace:
+#0 /home1/abhipoud/public_html/connection.php(7): mysqli_connect('localhost', 'abhipoud_a', Object(SensitiveParameterValue), 'abhipoud_773567...')
+#1 {main}
+  thrown in /home1/abhipoud/public_html/connection.php on line 7
+[17-Jan-2024 06:16:21 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'abhipoud_a'@'localhost' to database 'abhipoud_77356791' in /home1/abhipoud/public_html/connection.php:7
+Stack trace:
+#0 /home1/abhipoud/public_html/connection.php(7): mysqli_connect('localhost', 'abhipoud_a', Object(SensitiveParameterValue), 'abhipoud_773567...')
+#1 {main}
+  thrown in /home1/abhipoud/public_html/connection.php on line 7
+[17-Jan-2024 06:16:29 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/abhipoud/public_html/index.php on line 8
+[17-Jan-2024 06:16:34 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'abhipoud_a'@'localhost' to database 'abhipoud_77356791' in /home1/abhipoud/public_html/connection.php:7
+Stack trace:
+#0 /home1/abhipoud/public_html/connection.php(7): mysqli_connect('localhost', 'abhipoud_a', Object(SensitiveParameterValue), 'abhipoud_773567...')
+#1 /home1/abhipoud/public_html/login.php(3): include('/home1/abhipoud...')
+#2 {main}
+  thrown in /home1/abhipoud/public_html/connection.php on line 7
+[17-Jan-2024 06:16:39 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'abhipoud_a'@'localhost' to database 'abhipoud_77356791' in /home1/abhipoud/public_html/connection.php:7
+Stack trace:
+#0 /home1/abhipoud/public_html/connection.php(7): mysqli_connect('localhost', 'abhipoud_a', Object(SensitiveParameterValue), 'abhipoud_773567...')
+#1 /home1/abhipoud/public_html/login.php(3): include('/home1/abhipoud...')
+#2 {main}
+  thrown in /home1/abhipoud/public_html/connection.php on line 7
+[17-Jan-2024 06:18:16 America/Chicago] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home1/abhipoud/public_html/login.php:34
+Stack trace:
+#0 /home1/abhipoud/public_html/login.php(34): mysqli_close(Object(mysqli))
+#1 {main}
+  thrown in /home1/abhipoud/public_html/login.php on line 34
+[17-Jan-2024 06:20:05 America/Chicago] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home1/abhipoud/public_html/login.php:34
+Stack trace:
+#0 /home1/abhipoud/public_html/login.php(34): mysqli_close(Object(mysqli))
+#1 {main}
+  thrown in /home1/abhipoud/public_html/login.php on line 34
+[17-Jan-2024 06:20:37 America/Chicago] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home1/abhipoud/public_html/login.php:34
+Stack trace:
+#0 /home1/abhipoud/public_html/login.php(34): mysqli_close(Object(mysqli))
+#1 {main}
+  thrown in /home1/abhipoud/public_html/login.php on line 34
+[17-Jan-2024 06:20:43 America/Chicago] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home1/abhipoud/public_html/login.php:34
+Stack trace:
+#0 /home1/abhipoud/public_html/login.php(34): mysqli_close(Object(mysqli))
+#1 {main}
+  thrown in /home1/abhipoud/public_html/login.php on line 34
+[17-Jan-2024 06:20:45 America/Chicago] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home1/abhipoud/public_html/login.php:34
+Stack trace:
+#0 /home1/abhipoud/public_html/login.php(34): mysqli_close(Object(mysqli))
+#1 {main}
+  thrown in /home1/abhipoud/public_html/login.php on line 34
+[17-Jan-2024 06:22:12 America/Chicago] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home1/abhipoud/public_html/login.php:33
+Stack trace:
+#0 /home1/abhipoud/public_html/login.php(33): mysqli_close(Object(mysqli))
+#1 {main}
+  thrown in /home1/abhipoud/public_html/login.php on line 33
+[17-Jan-2024 06:23:16 America/Chicago] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home1/abhipoud/public_html/login.php:33
+Stack trace:
+#0 /home1/abhipoud/public_html/login.php(33): mysqli_close(Object(mysqli))
+#1 {main}
+  thrown in /home1/abhipoud/public_html/login.php on line 33
+[17-Jan-2024 06:23:52 America/Chicago] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home1/abhipoud/public_html/login.php:33
+Stack trace:
+#0 /home1/abhipoud/public_html/login.php(33): mysqli_close(Object(mysqli))
+#1 {main}
+  thrown in /home1/abhipoud/public_html/login.php on line 33
+[17-Jan-2024 06:24:10 America/Chicago] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home1/abhipoud/public_html/login.php:33
+Stack trace:
+#0 /home1/abhipoud/public_html/login.php(33): mysqli_close(Object(mysqli))
+#1 {main}
+  thrown in /home1/abhipoud/public_html/login.php on line 33
+[17-Jan-2024 06:25:44 America/Chicago] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home1/abhipoud/public_html/login.php:33
+Stack trace:
+#0 /home1/abhipoud/public_html/login.php(33): mysqli_close(Object(mysqli))
+#1 {main}
+  thrown in /home1/abhipoud/public_html/login.php on line 33
+[17-Jan-2024 06:26:16 America/Chicago] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home1/abhipoud/public_html/login.php:33
+Stack trace:
+#0 /home1/abhipoud/public_html/login.php(33): mysqli_close(Object(mysqli))
+#1 {main}
+  thrown in /home1/abhipoud/public_html/login.php on line 33
+[17-Jan-2024 06:26:19 America/Chicago] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home1/abhipoud/public_html/login.php:33
+Stack trace:
+#0 /home1/abhipoud/public_html/login.php(33): mysqli_close(Object(mysqli))
+#1 {main}
+  thrown in /home1/abhipoud/public_html/login.php on line 33
+[17-Jan-2024 06:27:02 America/Chicago] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home1/abhipoud/public_html/login.php:33
+Stack trace:
+#0 /home1/abhipoud/public_html/login.php(33): mysqli_close(Object(mysqli))
+#1 {main}
+  thrown in /home1/abhipoud/public_html/login.php on line 33
+[17-Jan-2024 06:28:32 America/Chicago] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home1/abhipoud/public_html/login.php:34
+Stack trace:
+#0 /home1/abhipoud/public_html/login.php(34): mysqli_close(Object(mysqli))
+#1 {main}
+  thrown in /home1/abhipoud/public_html/login.php on line 34
+[17-Jan-2024 06:28:40 America/Chicago] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home1/abhipoud/public_html/login.php:34
+Stack trace:
+#0 /home1/abhipoud/public_html/login.php(34): mysqli_close(Object(mysqli))
+#1 {main}
+  thrown in /home1/abhipoud/public_html/login.php on line 34
+[17-Jan-2024 06:29:51 America/Chicago] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home1/abhipoud/public_html/login.php:34
+Stack trace:
+#0 /home1/abhipoud/public_html/login.php(34): mysqli_close(Object(mysqli))
+#1 {main}
+  thrown in /home1/abhipoud/public_html/login.php on line 34
+[17-Jan-2024 06:30:57 America/Chicago] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home1/abhipoud/public_html/login.php:138
+Stack trace:
+#0 /home1/abhipoud/public_html/login.php(138): mysqli_close(Object(mysqli))
+#1 {main}
+  thrown in /home1/abhipoud/public_html/login.php on line 138
+[17-Jan-2024 06:32:23 America/Chicago] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home1/abhipoud/public_html/login.php:116
+Stack trace:
+#0 /home1/abhipoud/public_html/login.php(116): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 {main}
+  thrown in /home1/abhipoud/public_html/login.php on line 116
+[17-Jan-2024 06:32:35 America/Chicago] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home1/abhipoud/public_html/login.php:116
+Stack trace:
+#0 /home1/abhipoud/public_html/login.php(116): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 {main}
+  thrown in /home1/abhipoud/public_html/login.php on line 116
+[17-Jan-2024 06:32:58 America/Chicago] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home1/abhipoud/public_html/login.php:137
+Stack trace:
+#0 /home1/abhipoud/public_html/login.php(137): mysqli_close(Object(mysqli))
+#1 {main}
+  thrown in /home1/abhipoud/public_html/login.php on line 137
+[17-Jan-2024 06:33:07 America/Chicago] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home1/abhipoud/public_html/login.php:115
+Stack trace:
+#0 /home1/abhipoud/public_html/login.php(115): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 {main}
+  thrown in /home1/abhipoud/public_html/login.php on line 115
+[17-Jan-2024 06:33:12 America/Chicago] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home1/abhipoud/public_html/register.php:39
+Stack trace:
+#0 /home1/abhipoud/public_html/register.php(39): mysqli_close(Object(mysqli))
+#1 {main}
+  thrown in /home1/abhipoud/public_html/register.php on line 39
+[17-Jan-2024 06:33:48 America/Chicago] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home1/abhipoud/public_html/login.php:137
+Stack trace:
+#0 /home1/abhipoud/public_html/login.php(137): mysqli_close(Object(mysqli))
+#1 {main}
+  thrown in /home1/abhipoud/public_html/login.php on line 137
+[17-Jan-2024 06:33:56 America/Chicago] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home1/abhipoud/public_html/login.php:115
+Stack trace:
+#0 /home1/abhipoud/public_html/login.php(115): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 {main}
+  thrown in /home1/abhipoud/public_html/login.php on line 115
+[17-Jan-2024 06:34:04 America/Chicago] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home1/abhipoud/public_html/login.php:115
+Stack trace:
+#0 /home1/abhipoud/public_html/login.php(115): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 {main}
+  thrown in /home1/abhipoud/public_html/login.php on line 115
+[17-Jan-2024 06:34:40 America/Chicago] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home1/abhipoud/public_html/login.php:137
+Stack trace:
+#0 /home1/abhipoud/public_html/login.php(137): mysqli_close(Object(mysqli))
+#1 {main}
+  thrown in /home1/abhipoud/public_html/login.php on line 137
+[17-Jan-2024 06:35:11 America/Chicago] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home1/abhipoud/public_html/login.php:138
+Stack trace:
+#0 /home1/abhipoud/public_html/login.php(138): mysqli_close(Object(mysqli))
+#1 {main}
+  thrown in /home1/abhipoud/public_html/login.php on line 138
+[17-Jan-2024 06:35:35 America/Chicago] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home1/abhipoud/public_html/login.php:137
+Stack trace:
+#0 /home1/abhipoud/public_html/login.php(137): mysqli_close(Object(mysqli))
+#1 {main}
+  thrown in /home1/abhipoud/public_html/login.php on line 137
+[17-Jan-2024 06:36:04 America/Chicago] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home1/abhipoud/public_html/login.php:134
+Stack trace:
+#0 /home1/abhipoud/public_html/login.php(134): mysqli_close(Object(mysqli))
+#1 {main}
+  thrown in /home1/abhipoud/public_html/login.php on line 134
+[17-Jan-2024 06:36:22 America/Chicago] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home1/abhipoud/public_html/login.php:133
+Stack trace:
+#0 /home1/abhipoud/public_html/login.php(133): mysqli_close(Object(mysqli))
+#1 {main}
+  thrown in /home1/abhipoud/public_html/login.php on line 133
+[17-Jan-2024 06:36:29 America/Chicago] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home1/abhipoud/public_html/login.php:111
+Stack trace:
+#0 /home1/abhipoud/public_html/login.php(111): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 {main}
+  thrown in /home1/abhipoud/public_html/login.php on line 111
+[17-Jan-2024 06:36:55 America/Chicago] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home1/abhipoud/public_html/login.php:134
+Stack trace:
+#0 /home1/abhipoud/public_html/login.php(134): mysqli_close(Object(mysqli))
+#1 {main}
+  thrown in /home1/abhipoud/public_html/login.php on line 134
+[17-Jan-2024 06:37:05 America/Chicago] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home1/abhipoud/public_html/login.php:112
+Stack trace:
+#0 /home1/abhipoud/public_html/login.php(112): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 {main}
+  thrown in /home1/abhipoud/public_html/login.php on line 112
+[17-Jan-2024 06:37:39 America/Chicago] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home1/abhipoud/public_html/login.php:135
+Stack trace:
+#0 /home1/abhipoud/public_html/login.php(135): mysqli_close(Object(mysqli))
+#1 {main}
+  thrown in /home1/abhipoud/public_html/login.php on line 135
+[17-Jan-2024 06:37:47 America/Chicago] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home1/abhipoud/public_html/login.php:113
+Stack trace:
+#0 /home1/abhipoud/public_html/login.php(113): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 {main}
+  thrown in /home1/abhipoud/public_html/login.php on line 113
+[17-Jan-2024 06:38:31 America/Chicago] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home1/abhipoud/public_html/login.php:134
+Stack trace:
+#0 /home1/abhipoud/public_html/login.php(134): mysqli_close(Object(mysqli))
+#1 {main}
+  thrown in /home1/abhipoud/public_html/login.php on line 134
+[17-Jan-2024 06:38:38 America/Chicago] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home1/abhipoud/public_html/login.php:111
+Stack trace:
+#0 /home1/abhipoud/public_html/login.php(111): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 {main}
+  thrown in /home1/abhipoud/public_html/login.php on line 111
+[17-Jan-2024 06:39:10 America/Chicago] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home1/abhipoud/public_html/login.php:134
+Stack trace:
+#0 /home1/abhipoud/public_html/login.php(134): mysqli_close(Object(mysqli))
+#1 {main}
+  thrown in /home1/abhipoud/public_html/login.php on line 134
+[17-Jan-2024 06:39:18 America/Chicago] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home1/abhipoud/public_html/login.php:111
+Stack trace:
+#0 /home1/abhipoud/public_html/login.php(111): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 {main}
+  thrown in /home1/abhipoud/public_html/login.php on line 111
+[17-Jan-2024 06:41:49 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/abhipoud/public_html/login.php:3) in /home1/abhipoud/public_html/login.php on line 122
+[17-Jan-2024 06:42:43 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/abhipoud/public_html/session.php on line 2
+[17-Jan-2024 06:42:43 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/abhipoud/public_html/viewproducts.php:1) in /home1/abhipoud/public_html/session.php on line 4
+[17-Jan-2024 06:43:06 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/abhipoud/public_html/session.php on line 2
+[17-Jan-2024 06:43:06 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/abhipoud/public_html/viewproducts.php:1) in /home1/abhipoud/public_html/session.php on line 4
+[17-Jan-2024 06:43:16 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/abhipoud/public_html/session.php on line 2
+[17-Jan-2024 06:43:16 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/abhipoud/public_html/viewproducts.php:1) in /home1/abhipoud/public_html/session.php on line 4
+[17-Jan-2024 06:43:19 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/abhipoud/public_html/session.php on line 2
+[17-Jan-2024 06:43:19 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/abhipoud/public_html/viewproducts.php:1) in /home1/abhipoud/public_html/session.php on line 4
+[17-Jan-2024 06:43:23 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/abhipoud/public_html/session.php on line 2
+[17-Jan-2024 06:43:23 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/abhipoud/public_html/viewproducts.php:1) in /home1/abhipoud/public_html/session.php on line 4
+[17-Jan-2024 06:43:35 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/abhipoud/public_html/session.php on line 2
+[17-Jan-2024 06:43:35 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/abhipoud/public_html/viewproducts.php:1) in /home1/abhipoud/public_html/session.php on line 4
+[17-Jan-2024 06:44:21 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/abhipoud/public_html/header.php:1) in /home1/abhipoud/public_html/register.php on line 30
+[17-Jan-2024 06:46:04 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/abhipoud/public_html/login.php:3) in /home1/abhipoud/public_html/login.php on line 122
+[17-Jan-2024 06:46:10 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/abhipoud/public_html/session.php on line 2
+[17-Jan-2024 06:46:10 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/abhipoud/public_html/viewproducts.php:1) in /home1/abhipoud/public_html/session.php on line 4
+[17-Jan-2024 06:46:22 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/abhipoud/public_html/index.php on line 8
+[17-Jan-2024 06:48:54 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/abhipoud/public_html/login.php:3) in /home1/abhipoud/public_html/login.php on line 122
+[17-Jan-2024 06:49:03 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/abhipoud/public_html/session.php on line 2
+[17-Jan-2024 06:49:03 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/abhipoud/public_html/viewproducts.php:1) in /home1/abhipoud/public_html/session.php on line 4
+[17-Jan-2024 06:49:08 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/abhipoud/public_html/index.php on line 8
+[17-Jan-2024 06:50:15 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/abhipoud/public_html/session.php on line 2
+[17-Jan-2024 06:50:15 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/abhipoud/public_html/viewproducts.php:1) in /home1/abhipoud/public_html/session.php on line 4
+[17-Jan-2024 06:52:22 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/abhipoud/public_html/session.php on line 2
+[17-Jan-2024 06:52:22 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/abhipoud/public_html/viewproducts.php:1) in /home1/abhipoud/public_html/session.php on line 4
+[17-Jan-2024 06:52:50 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/abhipoud/public_html/session.php on line 2
+[17-Jan-2024 06:52:50 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/abhipoud/public_html/viewproducts.php:1) in /home1/abhipoud/public_html/session.php on line 4
+[17-Jan-2024 06:53:29 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/abhipoud/public_html/index.php on line 8
+[17-Jan-2024 06:53:36 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/abhipoud/public_html/session.php on line 2
+[17-Jan-2024 06:53:36 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/abhipoud/public_html/viewproducts.php:1) in /home1/abhipoud/public_html/session.php on line 4
+[17-Jan-2024 06:54:19 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/abhipoud/public_html/viewproducts.php on line 2
+[17-Jan-2024 06:54:19 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/abhipoud/public_html/viewproducts.php:1) in /home1/abhipoud/public_html/viewproducts.php on line 4
+[17-Jan-2024 06:55:29 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/abhipoud/public_html/viewproducts.php on line 2
+[17-Jan-2024 06:55:29 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/abhipoud/public_html/viewproducts.php:1) in /home1/abhipoud/public_html/viewproducts.php on line 4
+[17-Jan-2024 07:29:17 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/abhipoud/public_html/login.php:3) in /home1/abhipoud/public_html/login.php on line 122
+[17-Jan-2024 07:29:24 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/abhipoud/public_html/login.php:3) in /home1/abhipoud/public_html/login.php on line 122
+[17-Jan-2024 07:29:33 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/abhipoud/public_html/index.php on line 8
+[17-Jan-2024 07:30:00 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/abhipoud/public_html/index.php on line 8
+[17-Jan-2024 07:30:09 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/abhipoud/public_html/index.php on line 8
+[17-Jan-2024 07:30:20 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/abhipoud/public_html/index.php on line 8
+[17-Jan-2024 07:30:31 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/abhipoud/public_html/login.php:3) in /home1/abhipoud/public_html/login.php on line 122
+[17-Jan-2024 07:32:04 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/abhipoud/public_html/index.php on line 8
+[17-Jan-2024 07:32:17 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/abhipoud/public_html/login.php:3) in /home1/abhipoud/public_html/login.php on line 122
+[17-Jan-2024 07:32:33 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/abhipoud/public_html/index.php on line 8
+[17-Jan-2024 07:32:43 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/abhipoud/public_html/index.php on line 8
+[17-Jan-2024 07:41:07 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/abhipoud/public_html/login.php:4) in /home1/abhipoud/public_html/login.php on line 123
+[17-Jan-2024 07:41:16 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/abhipoud/public_html/index.php on line 8
+[17-Jan-2024 07:41:41 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/abhipoud/public_html/login.php:4) in /home1/abhipoud/public_html/login.php on line 123
+[17-Jan-2024 07:41:46 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/abhipoud/public_html/viewproducts.php on line 2
+[17-Jan-2024 07:41:46 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/abhipoud/public_html/viewproducts.php:1) in /home1/abhipoud/public_html/viewproducts.php on line 4
+[17-Jan-2024 07:41:57 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/abhipoud/public_html/viewproducts.php on line 2
+[17-Jan-2024 07:41:57 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/abhipoud/public_html/viewproducts.php:1) in /home1/abhipoud/public_html/viewproducts.php on line 4
+[17-Jan-2024 07:41:57 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/abhipoud/public_html/viewproducts.php:1) in /home1/abhipoud/public_html/header.php on line 42
+[17-Jan-2024 07:42:04 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/abhipoud/public_html/viewproducts.php on line 2
+[17-Jan-2024 07:42:04 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/abhipoud/public_html/viewproducts.php:1) in /home1/abhipoud/public_html/viewproducts.php on line 4
+[17-Jan-2024 07:42:04 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/abhipoud/public_html/viewproducts.php:1) in /home1/abhipoud/public_html/header.php on line 42
+[17-Jan-2024 07:42:07 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/abhipoud/public_html/viewproducts.php on line 2
+[17-Jan-2024 07:42:07 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/abhipoud/public_html/viewproducts.php:1) in /home1/abhipoud/public_html/viewproducts.php on line 4
+[17-Jan-2024 07:42:07 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/abhipoud/public_html/viewproducts.php:1) in /home1/abhipoud/public_html/header.php on line 42
+[17-Jan-2024 07:43:03 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/abhipoud/public_html/index.php on line 8
+[17-Jan-2024 07:43:10 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/abhipoud/public_html/index.php on line 8
+[17-Jan-2024 07:43:20 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/abhipoud/public_html/login.php:4) in /home1/abhipoud/public_html/login.php on line 123
+[17-Jan-2024 07:43:28 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/abhipoud/public_html/viewproducts.php on line 2
+[17-Jan-2024 07:43:28 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/abhipoud/public_html/viewproducts.php:1) in /home1/abhipoud/public_html/viewproducts.php on line 4
+[17-Jan-2024 07:46:18 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/abhipoud/public_html/index.php on line 8
+[17-Jan-2024 07:46:31 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/abhipoud/public_html/login.php:4) in /home1/abhipoud/public_html/header.php on line 42
+[17-Jan-2024 07:46:31 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/abhipoud/public_html/login.php on line 107
+[17-Jan-2024 07:46:31 America/Chicago] PHP Warning:  Undefined array key "password" in /home1/abhipoud/public_html/login.php on line 108
+[17-Jan-2024 07:46:34 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/abhipoud/public_html/login.php:4) in /home1/abhipoud/public_html/header.php on line 42
+[17-Jan-2024 07:46:34 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/abhipoud/public_html/login.php on line 107
+[17-Jan-2024 07:46:34 America/Chicago] PHP Warning:  Undefined array key "password" in /home1/abhipoud/public_html/login.php on line 108
+[17-Jan-2024 07:46:36 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/abhipoud/public_html/index.php on line 8
+[17-Jan-2024 07:46:41 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/abhipoud/public_html/index.php on line 8
+[17-Jan-2024 07:46:41 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/abhipoud/public_html/index.php:1) in /home1/abhipoud/public_html/header.php on line 42
+[17-Jan-2024 07:46:46 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/abhipoud/public_html/index.php on line 8
+[17-Jan-2024 07:46:46 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/abhipoud/public_html/index.php:1) in /home1/abhipoud/public_html/header.php on line 42
+[17-Jan-2024 07:46:53 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/abhipoud/public_html/index.php on line 8
+[17-Jan-2024 07:49:59 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/abhipoud/public_html/login.php:4) in /home1/abhipoud/public_html/login.php on line 123
+[17-Jan-2024 07:50:03 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/abhipoud/public_html/index.php on line 8
+[17-Jan-2024 07:51:33 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/abhipoud/public_html/viewproducts.php on line 2
+[17-Jan-2024 07:51:33 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/abhipoud/public_html/viewproducts.php:1) in /home1/abhipoud/public_html/viewproducts.php on line 4
+[17-Jan-2024 07:53:00 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/abhipoud/public_html/login.php:4) in /home1/abhipoud/public_html/login.php on line 123
+[17-Jan-2024 09:03:00 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/abhipoud/public_html/header.php:1) in /home1/abhipoud/public_html/register.php on line 30
+[17-Jan-2024 09:08:11 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/abhipoud/public_html/header.php:1) in /home1/abhipoud/public_html/register.php on line 30
+[17-Jan-2024 09:16:06 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/abhipoud/public_html/header.php:1) in /home1/abhipoud/public_html/register.php on line 30
+[17-Jan-2024 09:18:10 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/abhipoud/public_html/header.php:1) in /home1/abhipoud/public_html/register.php on line 30
+[17-Jan-2024 09:20:22 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/abhipoud/public_html/header.php:1) in /home1/abhipoud/public_html/register.php on line 31
+[17-Jan-2024 09:21:31 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/abhipoud/public_html/header.php:1) in /home1/abhipoud/public_html/register.php on line 30
+[17-Jan-2024 09:25:01 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'Kangmf' for key 'username' in /home1/abhipoud/public_html/register.php:29
+Stack trace:
+#0 /home1/abhipoud/public_html/register.php(29): mysqli_query(Object(mysqli), 'INSERT INTO use...')
+#1 {main}
+  thrown in /home1/abhipoud/public_html/register.php on line 29
+[17-Jan-2024 09:25:32 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/abhipoud/public_html/header.php:1) in /home1/abhipoud/public_html/register.php on line 30
+[17-Jan-2024 09:28:13 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/abhipoud/public_html/header.php:1) in /home1/abhipoud/public_html/register.php on line 10
+[17-Jan-2024 09:28:35 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/abhipoud/public_html/header.php:1) in /home1/abhipoud/public_html/register.php on line 10
+[17-Jan-2024 09:28:35 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/abhipoud/public_html/header.php:1) in /home1/abhipoud/public_html/register.php on line 31
+[17-Jan-2024 09:30:04 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/abhipoud/public_html/header.php:1) in /home1/abhipoud/public_html/register.php on line 31

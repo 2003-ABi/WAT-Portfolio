@@ -1,0 +1,27 @@
+.vertical-navbar {
+    position: absolute;
+    top: 17vh; /* Adjust based on your header's height */
+    right: 15px;
+    width: 150px;
+    height: 200px; /* Adjust based on your header's height */
+    background-color: black;
+    padding: 20px 0px;
+    z-index: 1000; /* Set a higher z-index to make sure it's above other elements */
+    /* Additional styles */
+    overflow-y: auto; /* Use "auto" to add a vertical scrollbar if content exceeds the height */
+    border-radius:20px;
+    margin-top:20px;
+}
+
+.vertical-navbar .nav-item {
+    display: flex;
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.vertical-navbar .nav-item:hover {
+    background-color: grey;
+    color: black;
+}
