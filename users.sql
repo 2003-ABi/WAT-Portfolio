@@ -44,7 +44,6 @@ INSERT INTO `users` (`id`, `username`, `password`, `email`, `age`, `role`) VALUE
 (12, 'admin', '7656da1a55da3e2b97f0c6c278bb7cd6', 'admin@domain.com', 20, 'admin'),
 (13, 'Abhishek', 'db7cf53734105a580847c792896e1031', 'abhishek@gmail.com', 20, ''),
 (26, 'rohanbu', '18387e232b811f923291484b10e9bf2b', 'rohan.budhathoki@gmail.com', 102, ''),
-(27, 'Shreeja Neupane', '0d56e4cfe9537de5b15ec4b2aef2aa36', 'Sja@gmail.com', 20, ''),
 (28, 'dharmaraj', '9c4c4567313961ea7889a39941edabe4', 'dharmaraj@gmail.com', 20, '');
 
 --
